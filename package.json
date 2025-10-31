@@ -1,5 +1,5 @@
 {
-  "name": "digithrive",
+  "name": "zooki",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
@@ -7,7 +7,7 @@
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "serve:ssr:Digithrive": "node dist/digithrive/server/server.mjs"
+    "serve:ssr:Digithrive": "node dist/zooki/server/server.mjs"
   },
   "private": true,
   "dependencies": {
