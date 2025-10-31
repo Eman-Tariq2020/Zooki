@@ -1,0 +1,87 @@
+.section2 {
+    background: url('/assets/backgroundsection2.png');
+    height:800px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.sect2-headmain {
+    color: black;
+    font-size: 31px;
+    font-weight: 300;
+}
+.sect2-icon-circle {
+    width: 62px;
+    min-height: 62px;
+    background-color: transparent;
+    border: 2px solid black;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+}
+.sect2-icon1 {
+    font-size: 28px;
+}
+.sect2-col1-h {
+    color: black;
+    font-weight: 400;
+    font-size: 27px;
+}
+.sect2-col1-p {
+    color: black;
+}
+.sect2-col1 {
+    flex-direction: column;
+    align-items: center;
+    display: flex;
+    text-align: center;
+}
+.sect2-row2-col1-h {
+    font-size: 33px;
+    font-weight: 300;
+}
+.sect2-row2-col1-p {
+    color: grey;
+}
+.sect2-img {
+    border: 6px solid rgba(0, 91, 234, .2);
+    width:500px;
+    height:300px;
+    float: right;
+}
+@media only screen and (min-width:200px) and (max-width:992px){
+    .sect2-col2-img {
+        display: flex;
+        justify-content: center;
+    }
+    .sect2-img {
+        border: 6px solid rgba(0, 91, 234, .2);
+        width:310px;
+        height:210px;
+    }
+    .sect2-row2-col1-h {
+        font-size: 24px;
+        font-weight: 500;
+    }
+    .sect2-row2-col1-p {
+        color: grey;
+        font-size: 14px;
+    }
+}  
+@media only screen and (min-width:768px) and (max-width:991px){
+    .section2 {
+        background: url('/assets/backgroundsection2.png');
+        height:1088px;
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+}
+@media only screen and (min-width:200px) and (max-width:767px){
+    .section2 {
+        background: url('/assets/backgroundsection2.png');
+        height:1446px;
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+}      

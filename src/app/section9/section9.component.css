@@ -1,0 +1,121 @@
+.section9 {
+    background-color: #f8f9fa;
+}
+.sect9-headmain {
+    color: black;
+    font-size: 31px;
+    font-weight: 300;
+}
+.sect9-formbox {
+    width: 100%;
+    min-height: 550px;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.sect9-nameinput {
+    padding: 13px 25px;
+    border: 1px solid lightgrey;
+    border-radius: 5px;
+    width: 100%;
+}
+.sect9-nameinput:focus {
+    background-color: #f8f9fa;
+    border-bottom: 1px solid orange;
+    outline:none;
+}
+.sect9-emailinput {
+    padding: 13px 25px;
+    border: 1px solid lightgrey;
+    border-radius: 5px;
+    width: 100%;
+}
+.sect9-emailinput:focus {
+    background-color: #f8f9fa;
+    border-bottom: 1px solid orange;
+    outline:none;
+}
+.sect9-subjectinput {
+    padding: 13px 25px;
+    border: 1px solid lightgrey;
+    border-radius: 5px;
+    width: 100%;
+}
+.sect9-subjectinput:focus {
+    background-color: #f8f9fa;
+    border-bottom: 1px solid orange;
+    outline:none;
+}
+.sect9-textinput {
+    padding: 13px 25px;
+    border: 1px solid lightgrey;
+    border-radius: 5px;
+    width: 100%;
+    min-height: 150px;
+}
+.sect9-textinput:focus {
+    background-color: #f8f9fa;
+    border-bottom: 1px solid orange;
+    outline:none;
+}
+.sect9-btn {
+    border: none;
+    background-color: orange;
+    color: white;
+    padding: 16px;
+    width: 196px;
+    border-radius: 5px;
+}
+.sect9-col2-callcir {
+    width: 50px;
+    min-height: 50px;
+    border-radius: 50%;
+    background-color: transparent;
+    border: 1px solid lightgrey;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.sect9-col2-callicon {
+    color: lightgrey;
+    font-size: 22px;
+}
+.sect9-col2-callp {
+    color: lightgray;
+}
+.sect9-col2-emailcir {
+    width: 50px;
+    min-height: 50px;
+    border-radius: 50%;
+    background-color: transparent;
+    border: 1px solid lightgrey;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.sect9-col2-emailicon {
+    color: lightgrey;
+    font-size: 22px;
+}
+.sect9-col2-emailp {
+    color: lightgray;
+}
+.sect9-col2-locationcir {
+    width: 50px;
+    min-height: 50px;
+    border-radius: 50%;
+    background-color: transparent;
+    border: 1px solid lightgrey;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.sect9-col2-locationicon {
+    color: lightgrey;
+    font-size: 22px;
+}
+.sect9-col2-locationp {
+    color: lightgray;
+}
+.sect9-col2-lilicons {
+    color: lightgray;
+}

@@ -1,0 +1,62 @@
+.sect7-headmain {
+    color: black;
+    font-size: 31px;
+    font-weight: 300;
+}
+.sect7-box1 {
+    border: 1px solid lightgrey;
+    width: 100%;
+}
+.sect7-box1-upperpart {
+    width: 100%;
+    min-height: 90px;
+    background-color: lightgrey;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.sect7-box1-upperpart-h1 {
+    font-weight: 400;
+    font-size: 21px;
+}
+.sect7-box1-upperpart-h2 {
+    font-weight: 500;
+    font-size: 32px;
+}
+.sect7-box1-p {
+    color: grey;
+}
+.sect7-box1-btn {
+    font-size: 13px;
+}
+.sect7-box2 {
+    border: 1px solid lightgrey;
+    width: 100%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.sect7-box2-upperpart {
+    width: 100%;
+    min-height: 90px;
+    background-color: blue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.sect7-box2-upperpart-h1 {
+    font-weight: 400;
+    font-size: 21px;
+    color: white;
+}
+.sect7-box2-upperpart-h2 {
+    font-weight: 500;
+    font-size: 32px;
+    color:white;
+}
+.sect7-box2-p {
+    color: grey;
+}
+.sect7-box2-btn {
+    font-size: 13px;
+    background-color: blue;
+    color: white;
+}

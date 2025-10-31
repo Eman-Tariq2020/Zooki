@@ -1,0 +1,35 @@
+.head-bg {
+    background-color: black;
+    z-index: 1;
+}
+.head-logo {
+    width:120px;
+    height:30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.nav-text li a {
+    color:white;
+    font-size: 14px;
+}
+.nav-text li a:hover {
+    color:orange;
+    font-size: 14px;
+}
+.joinus {
+    background-color: orange;
+    border-color: white;
+    width: 99px;
+    padding: 4px;
+    border-radius: 30px;
+}
+.hvr-underline-from-left:before {
+    background-color: orange;
+    height:2px;
+}
+.cus-togg {
+    background-color: white;
+    color: black;
+    padding: 2px;
+    border-radius: 0px;
+}

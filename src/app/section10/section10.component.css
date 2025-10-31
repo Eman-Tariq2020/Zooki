@@ -1,0 +1,28 @@
+.section10 {
+    background: url('/assets/section11bg.png');
+    width:100%;
+    background-size: cover;
+}
+.sect10-col1-h {
+    font-size: 17px;
+}
+.sect10-col1-p {
+    color: lightgrey;
+}
+.sect10-col2-h {
+    font-size: 17px;
+}
+.sect10-col2-a {
+    text-decoration: none;
+    color: lightgrey;
+}
+.hvr-underline-from-left::before {
+    background-color: orange;
+    height:2px;
+}
+.sect10-col3-h {
+    font-size: 17px;
+}
+.sect10-col4-h {
+    font-size: 17px;
+}

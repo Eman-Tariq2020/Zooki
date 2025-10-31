@@ -1,0 +1,17 @@
+.section8 {
+    background: url(/assets/fixedimg.jpg);
+    width: 100%;
+    min-height: 550px;
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+    background-position: center;
+}
+.sect8-overlay {
+    background-color: rgba(0, 0, 0, 0.7);
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+}   

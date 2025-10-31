@@ -1,0 +1,110 @@
+.section1 {
+    background: url('/assets/Untitled design.png');
+    min-height:600px;
+    background-size: cover;
+    position: relative;
+}
+.sect1-head {
+    color:white;
+}
+.sect1-p {
+    color:white;
+}
+.sect1-input {
+    border: none;
+    background-color: white;
+    padding: 11px;
+    width: 290px;
+    border-radius: 5px;
+}
+.getstarted {
+    border: none;
+    background-color: dodgerblue;
+    color: white;
+    padding: 11px;
+    width: 134px;
+    border-radius: 5px;
+}
+.play-btn {
+    color: white;
+    font-size: 66px;
+    position: absolute;
+    top: 50%;
+    left: 47%;
+}
+.sect1-img {
+    width:450px;
+    height:350px;
+}
+@media only screen and (min-width:200px) and (max-width:992px){
+    .section1 {
+        background: url('/assets/mob-hm-page.png');
+        min-height:600px;
+        background-size: cover;
+        position: relative;
+        background-repeat: no-repeat;
+        background-position: center;
+    } 
+    .mob-center-text {
+        align-items: center;
+        justify-content: center;
+        display: flex;
+        flex-direction: column;
+        height: 100%;
+        text-align: left;
+        padding-top: 52px;
+    }  
+    .mob-center-img {
+        align-items: center;
+        justify-content: center;
+        display: flex;
+        flex-direction: column;
+        height: 100%;
+    } 
+    .sect1-img {
+        width:300px;
+        height:200px;
+        margin-top: 95px;
+    }
+    .sect1-head {
+        color:white;
+        font-size: 26px;
+    }
+    .sect1-p {
+        color:white;
+        font-size: 12px;
+    }
+    .sect1-input {
+        border: none;
+        background-color: white;
+        padding: 11px;
+        width: 220px;
+        border-radius: 5px;
+    }
+    .getstarted {
+       border: none;
+       background-color: dodgerblue;
+       color: white;
+       padding: 11px;
+       width: 102px;
+       border-radius: 5px;
+    }
+}
+@media only screen and (min-width:200px) and (max-width:550px){
+    .play-btn {
+        color: white;
+        font-size: 66px;
+        position: absolute;
+        top: 46%;
+        left: 41%;
+    }
+} 
+@media only screen and (min-width:550px) and (max-width:992px){
+    .play-btn {
+        color: white;
+        font-size: 66px;
+        position: absolute;
+        top: 46%;
+        left: 45%;
+    }
+}   
