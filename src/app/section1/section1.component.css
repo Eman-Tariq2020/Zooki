@@ -1,5 +1,5 @@
 .section1 {
-    background: url('assets/Untitled design.png');
+    background: url('../../assets/Untitled design.png');
     min-height:600px;
     background-size: cover;
     position: relative;
@@ -38,7 +38,7 @@
 }
 @media only screen and (min-width:200px) and (max-width:992px){
     .section1 {
-        background: url('/assets/mob-hm-page.png');
+        background: url('../../assets/mob-hm-page.png');
         min-height:600px;
         background-size: cover;
         position: relative;

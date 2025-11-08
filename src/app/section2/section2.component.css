@@ -1,5 +1,5 @@
 .section2 {
-    background: url('/assets/backgroundsection2.png');
+    background: url('../../assets/backgroundsection2.png');
     height:800px;
     background-size: cover;
     background-repeat: no-repeat;
@@ -71,7 +71,7 @@
 }  
 @media only screen and (min-width:768px) and (max-width:991px){
     .section2 {
-        background: url('/assets/backgroundsection2.png');
+        background: url('../../assets/backgroundsection2.png');
         height:1088px;
         background-size: cover;
         background-repeat: no-repeat;
@@ -79,7 +79,7 @@
 }
 @media only screen and (min-width:200px) and (max-width:767px){
     .section2 {
-        background: url('/assets/backgroundsection2.png');
+        background: url('../../assets/backgroundsection2.png');
         height:1446px;
         background-size: cover;
         background-repeat: no-repeat;
