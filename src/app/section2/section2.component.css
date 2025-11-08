@@ -1,5 +1,5 @@
 .section2 {
-    background: url('../../assets/backgroundsection2.png');
+    background: url('/assets/backgroundsection2.png');
     height:800px;
     background-size: cover;
     background-repeat: no-repeat;

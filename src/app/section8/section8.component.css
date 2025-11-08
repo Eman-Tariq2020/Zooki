@@ -1,5 +1,5 @@
 .section8 {
-    background: url('../../assets/fixedimg.jpg');
+    background: url('/assets/fixedimg.jpg');
     width: 100%;
     min-height: 550px;
     background-size: cover;
