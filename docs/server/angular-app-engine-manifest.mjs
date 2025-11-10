@@ -1,6 +1,6 @@
 
 export default {
-  basePath: '/Zooki',
+  basePath: '/',
   supportedLocales: {
   "en-US": ""
 },
